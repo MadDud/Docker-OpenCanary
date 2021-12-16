@@ -1,5 +1,6 @@
 # Docker OpenCanary
-Simple Docker image for OpenCanary in Ubuntu
+Simple Docker image for OpenCanary in Ubuntu working with python3
+
 
 # Overview
 This image sets up OpenCanary in an Ubuntu container.  OpenCanary is a tool that creates honeypot services.  Alerts are sent when someone attempts to connect to one of these services.
