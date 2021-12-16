@@ -18,7 +18,7 @@ docker build --rm -t opencanary .
 
 Create a container
 ```
-docker run -dit -p 21:21 -p 80:80 --name opencanary-app opencanary</b>
+docker run -dit -p 21:21 -p 80:80 --name opencanary-app opencanary
 ```
 View log
 ```
